@@ -1,0 +1,4 @@
+content     Counter-count    chrome/content/
+overlay chrome://browser/content/browser.xul chrome://Counter-count/content/counter-ele.xul
+locale	Counter	en-US	locale/en-US/
+skin	Counter-count	classic/1.0	skin/
